@@ -1,0 +1,14 @@
+# Source data and the local analytical database are too large for GitHub.
+swift_umdac_datathon_2026_fictitious_payment_data.csv
+*.duckdb
+*.duckdb.wal
+tmp_duckdb/
+
+# Local preview renders
+preview/
+preview_slides/
+
+__pycache__/
+*.pyc
+.env
+.env.*
