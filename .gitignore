@@ -7,6 +7,8 @@ tmp_duckdb/
 # Local preview renders
 preview/
 preview_slides/
+agg/pptx_charts/
+.vscode/
 
 __pycache__/
 *.pyc

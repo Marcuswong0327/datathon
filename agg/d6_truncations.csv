@@ -1,0 +1,5 @@
+metric,rate_pct
+Internal '...' (QFLAG='N'),7.672
+First != ORD (QFLAG='Y'),4.99
+Last != BEN (QFLAG='Y'),4.95
+Both Mismatch (0.05²),0.24

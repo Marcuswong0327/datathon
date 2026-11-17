@@ -1,0 +1,11 @@
+feature,rate_pct
+50K Unstructured,83.3
+35-Char Line Wrap,62.6
+Country: 2-Char ISO,61.0
+Country: Full Name,23.6
+Country Omitted,15.4
+50F ('1/ 2/ 3/'),15.0
+Trailing <numerical>,9.5
+Prefix '//' Added,9.3
+Trailing <finance>,8.0
+Account Omitted,5.9
